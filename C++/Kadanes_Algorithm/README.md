@@ -1,7 +1,8 @@
-## 🚀 Overview
+# 🚀 Overview
 In this file, I documented my journey of understanding how to find the maximum sum subarray from a given array of integers.
+Starting from the most basic brute-force method to the highly efficient **Kadane’s Algorithm**.
 
-## 🔍 What I Learned
+## What I Learned
 
 ### 1. **Subarray Traversal – Brute Force (O(n³))**
 I started with the brute-force approach, where I learned how to **traverse all possible subarrays**, using three nested loops. It was helpful for understanding how subarrays work, but very inefficient for large arrays.
@@ -23,7 +24,7 @@ This progression helped me deeply understand both problem-solving techniques and
 | Method                   | Time Complexity |
 | ------------------------ | --------------- |
 | Brute Force Traversal    | O(n³)           |
-| Brute Force Max Subarray | O(n³)           |
+| Brute Force Max Subarray | O(n²)           |
 | Kadane’s Algorithm       | O(n)            |
 
 ---
@@ -38,6 +39,6 @@ By comparing these methods, I clearly saw the importance of optimization in codi
 
 ## 🚀 Overview
 
-This project explores different approaches to solving the **Maximum Subarray Problem**, starting from the most basic brute-force method to the highly efficient **Kadane’s Algorithm**.
+This project explores different approaches to solving the **Maximum Subarray Problem**, x
 
 ---
