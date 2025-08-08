@@ -29,16 +29,8 @@ This progression helped me deeply understand both problem-solving techniques and
 
 ---
 
-## ✅ Outcome
+### ✅ Outcome
 
 By comparing these methods, I clearly saw the importance of optimization in coding. Kadane’s Algorithm not only saves time but also teaches how **greedy choices** and **smart resets** can make a big difference.
----
-
-
-
-
-## 🚀 Overview
-
-This project explores different approaches to solving the **Maximum Subarray Problem**, x
 
 ---
